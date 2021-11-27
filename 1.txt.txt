@@ -1,3 +1,4 @@
-numbers = [4, 1, 2, 5]
-max_number = max(numbers)
+print ("Введите массив")
+n = list(input()) 
+max_number = max(n)
 print (max_number)
